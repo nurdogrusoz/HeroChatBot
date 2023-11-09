@@ -1,4 +1,7 @@
+# Hero Chat Bot
+
 * [x] Utilized OpenAi API to create a chatbot with the persona of Tony Stark from Iron Man
+* [x] Prompt engineered chatbot for better results 
 * [x] implemented speech-to-text for easier user interaction
 
 
