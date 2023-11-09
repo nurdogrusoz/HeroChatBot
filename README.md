@@ -1,3 +1,6 @@
+* [x] Utilized OpenAi API to create a chatbot with the persona of Tony Stark from Iron Man
+* [x] implemented speech-to-text for easier user interaction
+
 
 Live Demo of HeroChat Bot (using keyboard and speech-to-text):
 
