@@ -4,7 +4,8 @@
 * [x] Prompt engineered chatbot for better results 
 * [x] implemented speech-to-text for easier user interaction
 
-
+Note: not able to publish website due to api usage cost
+  
 Live Demo of HeroChat Bot (using keyboard and speech-to-text):
 
 
